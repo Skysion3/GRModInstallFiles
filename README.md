@@ -1,1 +1,1 @@
-# Repository that contains the files used by the GRMod Installer.
+Repository that contains the files used by the GRMod Installer.
