@@ -1,1 +1,1 @@
-Repository that contains the files used by the GRMod Installer.
+This repository hosts the install files used by the [GRMod Installer](https://github.com/Global-Retake/GRModInstaller).
